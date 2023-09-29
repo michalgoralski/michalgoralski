@@ -1,4 +1,4 @@
-### Hi there 👋
+On a break from uni, learning to code.
 
 <!--
 **michalgoralski/michalgoralski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
